@@ -1,11 +1,10 @@
 # Temple of Death
 A 2D CLI-Based Game written in C++ for first semester final project
 
-**Note: If you want to play level 2 - The Location Code is: ABCXYZ**
-
 Demo Video: [LinkedIn](https://www.linkedin.com/posts/muhammad-anas-650070281_excited-to-share-my-project-temple-of-activity-7149399926278438912-3i7W?utm_source=share&utm_medium=member_desktop)
 
 ![tod](https://github.com/m-ans-ishfaq/temple-of-death-game/assets/150812466/935837d6-a8be-449f-b14f-77eb8df01261)
+**Note: If you want to play level 2 - The Location Code is: ABCXYZ**
 ## Game Description
 The game is set in a 2D maze, viewed from a side-scrolling perspective, and is divided into two segments: the Temple and the Boss Arena. The Temple features a labyrinth with challenges like burners and chests that require fire to open. Items are collected upon player collision, while contact with enemy projectiles decreases health. Running out of health results in a game over. Players shoot based on their weapon's gauge, which increases over time as stamina is recovered. Different weapons have varying gauge requirements. The player's score rises with interactions such as chest destruction, item collection, and hitting enemies with bullets. The primary objective is to collect scrolls while surviving.
 The Boss Arena comprises a bordered area with a weakened seal at the center. Upon spotting the player, the devil initiates random moves, generating obstacles that players must evade while causing damage to the central seal. Once the boss's health is depleted, the devil is sealed, and the player successfully completes the game.
