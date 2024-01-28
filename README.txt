@@ -1,1 +1,2 @@
-Pass to Boss fight is - ABCXYZ
+# Temple of Death
+A 2D CLI-Based Game written in C++ for first semester final project
