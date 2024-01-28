@@ -1,0 +1,13 @@
+player_x
+player_y
+player_current_weapon
+score
+player_health
+player_gauge
+boss_health
+curse_of_devil_eye
+curse_of_devil_eye_counter
+curse_of_mirage
+curse_of_mirage_counter
+curse_of_wither
+curse_of_wither_counter
