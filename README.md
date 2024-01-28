@@ -46,6 +46,13 @@ Game objects can be divided into three categories; hard objects, collectibles an
 | **🏹 Arrow**          | Arrow is a projectile that only archers can shoot. It is poisonous, and the player must avoid it.                                                                                                                                                                  |
 | **🔮 Orb**           | Orb is a projectile emitted by magicians in a set of 4 and placed by the devil all over the area. Its damage is one of the highest in the game, and it must be avoided at all costs.                                                                             |
 | **💣 Dynamite**        | Dynamite is a collectible placed by the devil all over the area, exploding after a set interval. If the player is under the explosion radius, it causes damage.                                                                                                 |
+
+## Player Objective
+The game has two main parts. First, players need to get through the Temple of Death, which is a huge maze. They need to dodge obstacles, deal with foes, and open chests. Some chests have bad stuff like curses, some have good things to boost health and stamina, and some got the scrolls. You need to = collect all 7 scrolls to find out where the Devil was sealed. Once you got all the scrolls, a secret code shows up, letting you teleport to the right spot.
+Now, at this new location, there's a big showdown waiting for you - a boss fight. You need to face off against the Devil and put him back in his place. It's all about strategy and skill in this part. The Temple and the Boss Arena add a cool and challenging twist to the game.
+## Rules and Interactions
+Player can move in four different directions (vertical and horizontal), using the Arrow keys and it can switch weapons using Q (left) and E (right) keys, the player can shoot projectiles using the W, A, S, D (keys) each key representing 4 different directions (vertical and horizontal). The player can only move through white spaces or collectible items. Different collision cases are handled differently in the game.
+
 ## Curses Preview
 #### Curse of Mirage
 ![image](https://github.com/m-ans-ishfaq/temple-of-death-game/assets/150812466/bce53412-0987-4440-a71c-d3bceb3afc1f)
@@ -53,5 +60,16 @@ Game objects can be divided into three categories; hard objects, collectibles an
 ![image](https://github.com/m-ans-ishfaq/temple-of-death-game/assets/150812466/60efd3ba-a365-47d7-b3b0-05c849f7cd64)
 #### Curse of Wither
 ![image](https://github.com/m-ans-ishfaq/temple-of-death-game/assets/150812466/7bec86d2-7327-4c80-ace6-42e7243cd02d)
-## Boss Fight
+## Boss Fight Preview
+#### Explosive Barrage
+![image](https://github.com/m-ans-ishfaq/temple-of-death-game/assets/150812466/979b7c3f-95cb-4a56-9168-d611c9f394ad)
+#### Orb Cyclone
+![image](https://github.com/m-ans-ishfaq/temple-of-death-game/assets/150812466/4444b2a2-b632-442d-8af3-15b641b94de3)
+#### Blow It Up !
+![image](https://github.com/m-ans-ishfaq/temple-of-death-game/assets/150812466/9bf6f689-12a6-43f7-b6cf-6a021da9a94f)
+#### Total Chaos
+![image](https://github.com/m-ans-ishfaq/temple-of-death-game/assets/150812466/3e89f9a0-32fc-4260-99c0-fb5507edd646)
 
+**Note: Any kind of music/sound effect doesn't belong to me, I have only used them for my own learning purposes**
+
+Thanks for Reading ❤️
