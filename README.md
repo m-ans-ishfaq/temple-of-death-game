@@ -1,5 +1,6 @@
 # Temple of Death
 A 2D CLI-Based Game written in C++ for first semester final project
+**Note: If you want to play level 2 - The Location Code is: ABCXYZ**
 
 Demo Video: [LinkedIn](https://www.linkedin.com/posts/muhammad-anas-650070281_excited-to-share-my-project-temple-of-activity-7149399926278438912-3i7W?utm_source=share&utm_medium=member_desktop)
 
